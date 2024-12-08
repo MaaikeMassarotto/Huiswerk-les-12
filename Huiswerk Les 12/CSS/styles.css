@@ -1,0 +1,64 @@
+header{
+    width: 100%; height: 100px;
+    background-color: #f84bb9;
+}
+footer{
+    width: 100%; height: 100px;
+    background-color: #ff1493;
+}
+#cel1{
+    background-color: rgb(238, 130, 238);
+    color: darkgreen;
+}
+#cel2{
+    background-color: rgb(221, 160, 221);
+}
+#cel3{
+    background-color: rgb(216, 191, 216);
+    color: green;
+}
+#cel4{
+    background-color: rgb(230, 230, 250);
+}
+#cel5{
+    background-color: rgb(255, 228, 225);
+    color: darkolivegreen;
+}
+#cel6{
+    background-color: rgb(250, 235, 215);
+}
+#cel7{
+    background-color: rgb(250, 240, 230);
+    color: forestgreen;
+}
+#cel8{
+    background-color: rgb(245, 245, 220);
+}
+#cel9{
+    background-color: rgb(255, 248, 220);
+    color: seagreen;
+}
+#cel10{
+    background-color: rgb(255, 235, 205);
+}
+#cel11{
+    background-color: rgb(255, 228, 196);
+    color: olive;
+}
+#cel12{
+    background-color: rgb(255, 222, 173);
+}
+#cel13{
+    background-color: rgb(189, 183, 107);
+    color: olivedrab;
+}
+#cel14{
+    background-color: rgb(255, 215, 0);
+}
+#cel15{
+    background-color: rgb(240, 230, 140);
+    color: mediumseagreen;
+}
+#cel16{
+    background-color: rgb(255, 255, 0);
+}
